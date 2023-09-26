@@ -894,11 +894,22 @@ p {
     .single-service {
       padding: 15px; } }
   .single-service .service-icon i {
+    margin-top: 11px;
     font-size: 60px;
     color: #754ef9;
-    line-height: 56px; }
+    line-height: 56px; 
+    float:left;
+  }
+  .single-service .service-icon h4 {
+    margin-top: 11px;
+    margin-left: 3px;
+    color: #4e35a1;
+    line-height: 56px; 
+    float:left;
+  }
   .single-service .service-content {
-    margin-top: 11px; }
+    margin-top: 11px;
+    display: flex;}
     .single-service .service-content .service-title a {
       font-size: 22px;
       font-weight: 600;
