@@ -32,7 +32,7 @@
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", "Noto Sans CJK TC", "Microsoft JhengHei", PingFang, STHeiti, sans-serif, serif;
   font-weight: normal;
   font-style: normal;
   color: #8a8fa3; }
@@ -576,7 +576,7 @@ p {
           height: 45px; }
 
 .header-content {
-  height: 730px;
+  height: 680px;
   width: 100%;
   margin-top: 90px;
   position: relative;
@@ -742,7 +742,7 @@ p {
 
 .header-social {
   position: absolute;
-  bottom: 30px;
+  bottom: 50px;
   left: 15px;
   width: 100%; }
   .header-social .header-social-icon {
@@ -822,7 +822,7 @@ p {
   font-size: 16px;
   color: #754ef9; }
 .about-content .single-info .info-text {
-  padding-left: 13px; }
+  padding-left: 8px; }
   .about-content .single-info .info-text p span {
     color: #32333c; }
 
