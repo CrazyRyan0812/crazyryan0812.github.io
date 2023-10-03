@@ -1133,7 +1133,7 @@ p {
   border-top-left-radius: 5px;
   border-top-right-radius: 5px; }
   .single-pricing .pricing-package .package-title {
-    font-size: 22px;
+    font-size: 24px;
     color: #fff;
     padding: 25px; }
 .single-pricing .pricing-body {
@@ -1143,11 +1143,16 @@ p {
   .single-pricing .pricing-body .pricing-text {
     border-bottom: 1px solid #ddd;
     padding: 20px 25px; }
-    .single-pricing .pricing-body .pricing-text .price {
-      font-size: 30px;
+    .single-pricing .pricing-body .pricing-text .text {
+      font-size: 20px;
+      font-weight: 400;
+      color: #212227;
+      padding-top: 5px; }
+    .single-pricing .pricing-body .pricing-text .GPA {
+      font-size: 18px;
       font-weight: 600;
       color: #754ef9;
-      padding-top: 15px; }
+      padding-top: 5px; }
   .single-pricing .pricing-body .pricing-list {
     padding-top: 30px; }
     .single-pricing .pricing-body .pricing-list ul li {
